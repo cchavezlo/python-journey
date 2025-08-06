@@ -15,7 +15,7 @@ This section of the repository tracks my **key learnings** as I build up advance
 
 ---
 
-## 📁 Recursos
+## 📁 Useful Resources
 
 
 ---
@@ -23,6 +23,5 @@ This section of the repository tracks my **key learnings** as I build up advance
 ## 📬 Contact
 
 Carolina B. Chávez López  
-[[](https://www.linkedin.com/in/cchavezlo/)]  
-[[https://cdn-icons-png.flaticon.com/512/281/281769.png<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c7f3d773-d332-4f18-98b2-2fefe196385f" />
-](cbchavezlopez@gmail.com)]
+[[💼: Linkedin.com/in/cchavezlo](https://www.linkedin.com/in/cchavezlo/)]  
+[[📧: cbchavezlopez@gmail.com](cbchavezlopez@gmail.com)]
